@@ -1,3 +1,5 @@
+El proyecto se realizó usando XAMPP como servidor, se requiere instalar Laravel con sus dependencias (composer y extensiones PHP) para correr la aplicacion. Mas información en la documentacion de Laravel.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
